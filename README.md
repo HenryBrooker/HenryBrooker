@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HenryBrooker
+- 👋 Good day! I'm Henry Brooker
 - 👀 I’m interested in creating just about anything.
 - 🌱 I’m currently learning Python, Javascript, HTML 5, and Lua.
 - 💞️ I’m looking to collaborate on anything.
